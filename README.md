@@ -26,8 +26,8 @@ Follow the steps below to run the project locally from the GitHub repository:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/zrex-landing-page.git
-cd zrex-landing-page
+[git clone https://github.com/yourusername/zrex-landing-page.git](https://github.com/SakaethRam/ZREX.git)
+cd ZREX
 ```
 
 ### Install Dependencies
