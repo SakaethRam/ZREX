@@ -63,10 +63,8 @@ git push origin main
 
 Once the deployment is complete, Netlify will provide a live URL for your site.
 
-## Additional Notes
-- Ensure **Node.js** and **npm** are installed on your system before running the project.
-- Use **Framer Motion** to tweak animations if needed.
-- Netlify automatically rebuilds and deploys on new commits when connected to a GitHub repository.
+## Credits
+**Assets:** ```https://github.com/kushald/virtualr/tree/main/src/assets```
 
 ## Contributing
 Contributions are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
