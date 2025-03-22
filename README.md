@@ -3,6 +3,8 @@
 ## Disclaimer
 The name **ZREX** is used as a non-copyrighted alternative to "CPlusplus" to avoid any trademark or copyright issues. Additionally, the title placeholders and content within this project are fabricated for copyright reasons. Any resemblance to real entities, projects, or materials is purely coincidental.
 
+**ZREX Web:** [website]([www.linkedin.com/in/r-sakaeth-ram-82614731b](https://zrex.netlify.app))
+
 ZREX is a modern and visually appealing landing page built using **React, Node.js, Tailwind CSS, and Framer Motion**. It is designed for seamless performance, interactive animations, and a responsive layout. The project is deployed on **Netlify** for easy access and scalability.
 
 ![ZREX](https://github.com/user-attachments/assets/a2b6d8a5-e587-4c4e-ab02-6c7452fff88f)
