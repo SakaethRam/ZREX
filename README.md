@@ -77,5 +77,5 @@ Contributions are welcome. Feel free to fork the repository, create a feature br
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any inquiries, reach out via **[your.email@example.com](mailto:your.email@example.com)** or create an issue on GitHub.
+For any inquiries, reach out via **[sakaethrambusiness@gmail.com](mailto:sakaethrambusiness@gmail.com)** or create an issue on GitHub.
 
