@@ -21,7 +21,7 @@ const App = () => {
       {/* Main content */}
       <div className="relative z-10">
 
-        <Navbar />
+      <Navbar />
 
       <section id="hero"> <HeroSection /> </section>
 
